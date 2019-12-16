@@ -88,6 +88,8 @@ experiences:
 
 projects:
     title: Projects
+    
+    assignments:
     - title: Hand Gestures Input - Embedded System Project
         tagline: " A tool that can control certain functions on a computer / laptop by only doing a hand gesture."
 
