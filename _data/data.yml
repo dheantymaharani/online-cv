@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -47,8 +47,6 @@ education:
       university: Undergraduate (GPA 2.75/4)
       time: 2016 - present
       
-  
-     
     - degree: SMAN 1 Denpasar
       university: High School Graduate
       time: 2013 - 2016
@@ -121,4 +119,4 @@ skills:
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+ 
